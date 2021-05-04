@@ -1,0 +1,16 @@
+High Awareness<br />
+===============<br />
+*** Stericycle all P1/P2s - Email TAM James.S.Dengler@CenturyLink.com & CC adaptivemanagement@centurylink.com <br />
+<br />
+*** Elanco<br />
+Currently we are casing all Elanco alerts as P4s. AIMS should be attaching for escalation with no troubleshooting. If for some reason the AIMs are blank, we escalate these to Adaptive_Network(CDNE)<br />
+<br />
+*** CFA<br />
+ESCALATION CONTACTS, CTL INTERNAL Comcast Store alerts/issues:<br />
+TAM: Dustin Blanquart: 618-210-7456 | Dustin.Blanquart@centurylink.com <br />
+CSM: Aradhana Ripa Patnaik: 404-526-6595 | 925-826-6950 | aradhana.patnaik@centurylink.com <br />
+CSM: Casey Pope: 770-853-6646 | casey.pope@centurylink.com <br />
+<br />
+*** EasyJet<br />
+##DO NOT REMOVE## <br />
+easyJet LIDO changes are back. Try and keep changes for the next 4 weeks. Use CRQ000000243278 as the change to copy/clone.

@@ -1,0 +1,89 @@
+NOTES: <br />
+<br />
+NC000003822102 - CFA - RE: P1 for BCF " Please refer to Dustin's email for the list of devices required to suppress in the CPC". Keyword is BCF and CPC in alerts.<br />
+<br />
+INC000003822742 - cfa - suppression for CRQ000000334758 ends 8/15/2020 4:59AM GMT<br />
+<br />
+<br />
+CFA Circuit support is Live. <br />
+<br />
+Current CFA circuit suppression tickets : <br />
+Store Number | Device Name | Suppression Ticket<br />
+00804 ETH100-23890883 INC000003816938<br />
+01852 ETH100-23824504 INC000003816940<br />
+00868 ETH100-23515698 INC000003816942<br />
+01237 ETH100-23412172 INC000003817206<br />
+01344 ETH100-23827097 INC000003817205<br />
+01691 ETH100-23789281 INC000003816937<br />
+02119 ETH100-23989958 INC000003817204<br />
+02320 ETH100-23789043 INC000003817202<br />
+03633 ETH100-23942509 INC000003817203<br />
+04221 ETH100-23657437 INC000003816939<br />
+<br />
+Opsconsole triage:<br />
+https://confluence.savvis.net/display/CHIK/CFA+Stores+-+National+Repair+%28ETAC%29+Escalation<br />
+https://confluence.savvis.net/display/CHIK/CFA+Store+Circuit+Triage+and+Troubleshooting+-+Comcast+Managed+Store<br />
+<br />
+New outlook inbox to monitor: netrepairadaptivesupport@centurylink.com<br />
+<br />
+IC:<br />
+<br />
+Team. We're seeing a lot of CFA Monitoring Alert: Network Packet Loss Detected: Packet Loss: 100% tickets.<br />
+This might be related to Ops Console ticket 19309636 for fiber cut (On-going maintenance).<br />
+Master Ticket: INC000003821093<br />
+<br />
+Affected circuits are:<br />
+ETH100-23411410<br />
+ETH100-23411412<br />
+ETH100-23411421<br />
+ETH100-23411583<br />
+ETH100-23411606<br />
+ETH100-23411607<br />
+ETH100-23411753<br />
+ETH100-23411768<br />
+ETH100-23411780<br />
+ETH100-23411786<br />
+ETH100-23412026<br />
+ETH100-23412172<br />
+ETH100-23412429<br />
+ETH100-23412624<br />
+ETH100-23412684<br />
+ETH100-23519643<br />
+ETH100-23742444<br />
+ETH100-23777228<br />
+ETH100-23777353<br />
+ETH100-23778928<br />
+ETH100-23789043<br />
+ETH100-23789248<br />
+ETH100-23790428<br />
+ETH100-23791044<br />
+ETH100-23823660<br />
+ETH100-23824215<br />
+ETH100-23824219<br />
+ETH100-23824221<br />
+ETH100-23824226<br />
+ETH100-23824227<br />
+ETH100-23824381<br />
+ETH100-23825398<br />
+ETH100-23874899<br />
+ETH100-23915621<br />
+ETH100-23945611<br />
+ETH100-23945616<br />
+ETH100-23946486<br />
+ETH100-23956581<br />
+ETH100-23984429<br />
+ETH100-23985240<br />
+ETH100-23985564<br />
+ETH100-23986701<br />
+ETH100-23987564<br />
+ETH100-23989951<br />
+ETH100-23990522<br />
+ETH100-23990627<br />
+==========================================================<br />
+CRQ:<br />
+CRQ000000333945 - Visteon - Adjust CPU or RAM on VM - MOP Amended.for PR and execute UK shift<br />
+<br />
+CRQ000000334684 - A&O- Change CHG0070247 / tbc has been Approved - 3PAR: VVOL increase - Awaiting TSE reply<br />
+CRQ000000332271 - A&O - Memory Module Replacement(Cluster Node) - for PR<br />
+CRQ000000335169 - CFA - Upgrading Signal Sciences software on Fusion DMZ servers - for CAB approval<br />
+CRQ000000334390 - Catalent - JDE Monthly Maintenance - Adaptive MOP Completed. Awaiting for other teams to put their MOP.

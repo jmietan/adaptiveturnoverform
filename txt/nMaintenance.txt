@@ -1,0 +1,45 @@
+Maintenances<br />
+############<br />
+<br />
+Outages<br />
+#######<br />
+<br />
+Events Suppression Cases<br />
+########################<br />
+Please review suppression cases in the table below, via https://confluence.savvis.net/display/GSD/Suppression+Tickets+for+IC, and in the list below (new/higher awareness suppression cases). Please keep the lists updated.  Do not delete the below cases unless you've verified they're closed or on the Confluence page (updated 15JUL)<br />
+<br />
+** Catalent<br />
+INC000003717415 - SIP for C: drive on PTSXPIP06. *Server due for decomm*<br />
+INC000003652948 - relate alerts pertaining to "Virtual Machine has Snapshot - Metric Disk Overhead..." <br />
+<br />
+** CenturyLink Cloud Collective<br />
+INC000003744071 -  - Anything until they remove from Alerts<br />
+<br />
+**CFA<br />
+INC000003683317 - noLdapServersAvailable: | S616038-101 /102.NTAP<br />
+INC000003493111 - sudo: sndiscovery spam<br />
+INC000003550932 - S616038-004.BRFS_OLD being decom<br />
+INC000003781037 - Blue coloured alerts - Classified as informational per Adaptive Network MGMT. <br />
+<br />
+**Easyjet<br />
+INC000003811704 - Suppression - S217124-das1.lo6 / S217124-das2.lo6 / S217124-das3.lo6 / S217124-das4.lo6 for decom<br />
+INC000003806686 - Suppression for LB Pool /Common/pteVT100p-01_http_pool member /Common/172.26.230.20:80<br />
+INC000003709128 - Suppression : S217124-DTST3.LO6 spam - All servers failed to respond<br />
+INC000003711944 - RGVW1359 - server not live. <br />
+INC000003683317 - SUPPRESSION: noLdapServersAvailable: | S613038-101 /102.NTAP<br />
+INC000003817693 - Suppresion - S264874_2.J32 - Ping loss: Loss started 08-06-20 21:38, threshold: 5 out of 5 lost (100%)<br />
+<br />
+**Elanco<br />
+INC000003814561 - Elanco - suppression for: RPGBSPK (see explanation in high awareness section<br />
+INC000003765675 - Elanco - suppression for: ciscoLwappApIfDownNotify: This notification is generated when AP\\'s Interface open... ONLY<br />
+INC000003701625 - Elanco - suppression for: event ID is : SYSLOG-cisco-ios-SYS-PRIVCFG_ENCRYPT ONLY<br />
+INC000003800376 - Elanco - Suppression for: 'general 0 0 general medium FW has lost connection' ONLY (devices EQABIPINFRFWP01 RPUSQAS01PFW004 EQABIPINFRFWP02 RPINBLR01PFW001) <br />
+<br />
+**Visteon<br />
+INC000003267124 - Visteon Opsware error <br />
+<br />
+**SLM<br />
+INC000003599690 - AWS device suppression, and to record emails if appropriate<br />
+<br />
+<br />
+INC000003267124 - Visteon Opsware error 
